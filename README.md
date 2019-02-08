@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+problem statement :
 
-You can use the [editor on GitHub](https://github.com/yshah2232/MVA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Breast cancer starts when cells in the breast begin to grow out of control. These cells usually form a tumor that can often be seen on an x-ray or felt as a lump. The tumor is malignant (cancer) if the cells can grow into surrounding tissues or spread to distant areas of the body.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main aim of our project is to analyse the breast cancer data so as to provide preventive measures that can be taken by patients before the condition becomes too serious.
+We also wish to analyse at which stage is the cancer by analysing the causing factors.
 
-### Markdown
+For the analysis we will use KNN (K nearest neighbour) method.
+We use this method, as it is most preferred for classification for analysis for breast cancer and gives maximum accuracy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Questions that can be asked :
 
-```markdown
-Syntax highlighted code block
+what can be preventive measures for breast cancer ?
+what are the common factors that cause breast cancer ?
+Which is more common ? benign or malignant ?
+Classify stages of breast cancer?
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yshah2232/MVA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
