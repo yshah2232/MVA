@@ -10,7 +10,11 @@ We use this method, as it is most preferred for classification for analysis for 
 
 Questions that can be asked :
 
+
 what can be preventive measures for breast cancer ?
+
 what are the common factors that cause breast cancer ?
+
 Which is more common ? benign or malignant ?
+
 Classify stages of breast cancer?
