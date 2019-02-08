@@ -1,7 +1,16 @@
-setwd("C:/Users/Yshah/Downloads/Rutgers Sem 2/MVA")
+Problem statement :
 
-wisc_bc_df <- read.csv("./wisc_bc_data.csv", stringsAsFactors = F)
+Breast cancer starts when cells in the breast begin to grow out of control. These cells usually form a tumor that can often be seen on an x-ray or felt as a lump. The tumor is malignant (cancer) if the cells can grow into surrounding tissues or spread to distant areas of the body.
 
-str(wisc_bc_df)
+The main aim of our project is to analyse the breast cancer data so as to provide preventive measures that can be taken by patients before the condition becomes too serious.
+We also wish to analyse at which stage is the cancer by analysing the causing factors.
 
-wisc_bc_df
+For the analysis we will use KNN (K nearest neighbour) method.
+We use this method, as it is most preferred for classification for analysis for breast cancer and gives maximum accuracy.
+
+Questions that can be asked :
+
+what can be preventive measures for breast cancer ?
+what are the common factors that cause breast cancer ?
+Which is more common ? benign or malignant ?
+Classify stages of breast cancer?
