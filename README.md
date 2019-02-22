@@ -20,6 +20,9 @@ Which is more common ? benign or malignant ?
 Classify stages of breast cancer?
 
 Questions:(Homework 3)
+
 1.How are the various measurements related?
+
 2.Are there statistically significant differences between Benign and Malignant patients for the mean values of the variables?
+
 3. Do the Benign and Malignant show similar amounts of variation for the variables?
