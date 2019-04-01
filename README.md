@@ -19,7 +19,7 @@ Which is more common ? benign or malignant ?
 
 Classify stages of breast cancer?
 
-Questions:(Homework 3)
+Questions:
 
 1.How are the various measurements related?
 
