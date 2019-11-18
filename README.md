@@ -15,18 +15,16 @@
 
 ## Questions that can be asked :
 
-what can be preventive measures for breast cancer ?
+1. what can be preventive measures for breast cancer ?
 
-what are the common factors that cause breast cancer ?
+2. what are the common factors that cause breast cancer ?
 
-Which is more common ? benign or malignant ?
+3. Which is more common ? benign or malignant ?
 
-Classify stages of breast cancer?
+4. Classify stages of breast cancer?
 
 ## Questions:
 
-1.How are the various measurements related?
-
-2.Are there statistically significant differences between Benign and Malignant patients for the mean values of the variables?
-
+1. How are the various measurements related?
+2. Are there statistically significant differences between Benign and Malignant patients for the mean values of the variables?
 3. Do the Benign and Malignant show similar amounts of variation for the variables?
